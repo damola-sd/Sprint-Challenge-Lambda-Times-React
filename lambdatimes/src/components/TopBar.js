@@ -70,7 +70,7 @@ const containerRight = styled.div`
   }
 `;
 
-const 
+
 
 const TopBar = () => {
   return (
