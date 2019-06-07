@@ -20,6 +20,7 @@ Card.propTypes = {
   card: PropTypes.shape({
     headline: PropTypes.string,
     img: PropTypes.string,
+    tab: PropTypes.string,
     author: PropTypes.string
   })
 };

@@ -21,7 +21,7 @@ export default class Content extends Component {
     this.setState({
       tabs: tabData,
       cards: cardData
-    })
+    });
 
   }
 
